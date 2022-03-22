@@ -1,36 +1,39 @@
 ---
-title: RT2 Lab
+title: Signal Processing for Media Applications
 layout: homelay
 permalink: /
 ---
 
-The “Residual Tumor and Response to Treatment Laboratory” has four main goals.
+The Signal Processing for Media Applications (Sigmedia) Group  is a
+research group in the [Department of Electronic and Electrical
+Engineering](https://tcd.ie/eleceng) at [Trinity College
+Dublin](https://tcd.ie/).
 
-**Identification of clinical and pathological factors correlated with the long-term prognosis of TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
+## Research
 
-We have built a retrospective clinical, pathological and radiological database
-of breast cancer patients treated by neoadjuvant chemotherapy at Institut
-Curie since 2002. In triple-negative breast carcinoma (TNBC) we have
-highlighted a strong association between the lymph node involvement after
-neoadjuvant chemotherapy (NAC) and a poor prognosis outcome. We concluded
-that clinical trials should be implemented for high-risk patients after NAC
-(pN+, Elston Ellis Grade 3 and non menopausal status) to validate new
-therapeutic solutions.
+We explore problems that involve visual or audio digital media. Evolving from expertise in digital signal processing, we create solutions
+based on a healthy smoothy of statistics, probabilistic inference and applied mathematics. The team operates in well recognised domains: 
+computer vision, image/video/audio processing, and speech and language
+understanding. There are three main themes
 
-**Identification of robust biological-network driven gene-expression classification of TNBC and HER2 positive breast cancer to define new therapeutic interventions.**
+  - Digital Cinema and Restoration
+  - Video Compression and Streaming Pipelines
+  - Human Speech Communication
 
-We identified a robust six metagene classification across 1125 TNBC
-gene-expression profiles. An immune metagene is highly correlated to the
-prognosis of these patients. These findings open up interesting opportunities
-for the development of new therapeutic interventions in TNBC.
+We are well known for our work on cinema post-production. Our motion and visual enhancement technologies (in collaboration with
+[Foundry](https://foundry.com)) were used around the world for film
+post production in movies like The Matrix, Lord of the Rings, X-Men,
+Spider Man, Harry Potter. This work was recognised by the
+[Academy of Motion Picture Arts and Sciences in 2007](https://www.oscars.org/sci-tech/ceremonies/2007) with a Scientific and Engineering Oscar award.
 
-**Identification of dynamic markers of resistance in TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
 
-Using RNAsequencing, Whole Exome Sequencing and RPPA we are studying matched
-pre-treatment primary tumor biopsy and residual tumor after neoadjuvant
-treatment to identify modifications associated to resistance to
-systemic treatment.
+## Collaboration
 
-**High-througput screening of TNBC and HER2 positive breast cancer cell lines.**
-
-In order to identify efficient drugs to treat cancer patients, large screening programs have been launched with different setting of drugs and cancer cell lines (CCLE and CGP projects). We are developping 2D and 3D (magnetic levitation) breast cancer cell lines drug screening program with FDA approved drugs libraries.
+Sigmedia researchers have been involved with many EU projects over the years
+(i3dpost, MOUMIR, PRESTOSPACE) involving archives and broadcasters around Europe. We are currently involved in EU COST Actions
+IC1106 and IC1105. A number of our current projects are funded by
+Science Foundation Ireland, IRCSET and Enterprise Ireland. We have 
+collaborated closely with Industry, including Google/YouTube, DTS, Huawei, Lightstream
+Animation and Foundry. The group has had a close association with
+Prof. Frank Boland's Audio, Acoustics and Music Research Group, with
+many joint projects.
