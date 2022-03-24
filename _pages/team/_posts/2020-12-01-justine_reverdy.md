@@ -1,9 +1,18 @@
 ---
-name: Justine Reverdy
-position: Research Fellow
-email: reverdyj[at]tcd[dot]ie
-profile_picture: Justine_Reverdy.png
-join_date: 2020.12.01
+layout: member 
+category: Postdoc
+title: Justine Reverdy
+image: Justine_Reverdy.png
+role: Research Fellow
+permalink: 'team/justine-reverdy'
+social:
+    twitter:
+    linkedin:
+    google-scholar:
+    github:
+    website:
+    email: reverdyj@tcd.ie
+    orcid:
 ---
 
 Justine Reverdy is a postdoctoral research fellow at Trinity College Dublin,

@@ -1,11 +1,18 @@
 ---
-name: George Sterpu
-position: PhD
-email: sterpug[at]tcd[at]ie
-website: https://georgesterpu.github.io/
-profile_picture: George_Sterpu.jpg
-join_date: XX/XX/XXXX
-leave_date: XX/XX/XXXX
+layout: member 
+category: alumni
+title: George Sterpu
+image: George_Sterpu.jpg
+role: Alumni
+permalink: 'team/george-sterpu'
+social:
+    twitter:
+    linkedin:
+    google-scholar:
+    github:
+    website:
+    email: sterpug@tcd.ie
+    orcid:
 ---
 
 George Sterpu received his Master's degree in Electronics, Automation and Signal Processing from University Grenoble Alpes in 2015 and his Bachelor's degree from University Politehnica of Bucharest in 2013.
