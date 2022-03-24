@@ -27,4 +27,7 @@
     {% if member.social.research-gate %}
     <li class="list-inline-item"><a target="blank" href="{{member.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
     {% endif %}
+    {% if member.social.email %}
+    <li class="list-inline-item"><a target="blank" href="mailto:{{member.social.email}}"><i class="fas fa-envelope"></i></a></li>
+    {% endif %}
 </ul>

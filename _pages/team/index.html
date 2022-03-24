@@ -26,7 +26,45 @@ permalink: /team/
 <!-- Researchers -->
 <h2 class="mb-3"><a id="researcher"></a>Researchers</h2>
 
-{% assign members = site.posts | where: 'category', 'postdoc' | sort: 'date' %}
+<h4 class="mb-4"><a id="researcher"></a>Research Fellows</h4>
+
+{% assign members = site.posts | where: 'category', 'Postdoc' | sort: 'date' %}
+<ul class="list-unstyled">
+<div class="row">
+{% for member in members%}
+    {% assign ncols = 2 %}
+    {% assign i = forloop.index0 | modulo: ncols %}
+        <div class="col">
+            {%- include team_member.html -%}
+        </div>
+    {% if i == 1 %}
+        </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>
+</ul>
+
+<h4 class="mb-4"><a id="researcher"></a>Research Assistants</h4>
+
+{% assign members = site.posts | where: 'category', 'Research-Assistant' | sort: 'date' %}
+<ul class="list-unstyled">
+<div class="row">
+{% for member in members%}
+    {% assign ncols = 2 %}
+    {% assign i = forloop.index0 | modulo: ncols %}
+        <div class="col">
+            {%- include team_member.html -%}
+        </div>
+    {% if i == 1 %}
+        </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>
+</ul>
+
+<h4 class="mb-4"><a id="researcher"></a>Others</h4>
+
+{% assign members = site.posts | where: 'category', 'others' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -45,7 +83,7 @@ permalink: /team/
 <!-- Students -->
 <h2 class="mb-3"><a id="student"></a>PhD Students</h2>
 
-{% assign members = site.posts | where: 'category', 'phd-student' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'PhD-Student' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
