@@ -12,4 +12,5 @@ social:
 
 ---
 
-Clément Bled is a PhD researcher with the Electronic Engineering department at Trinity College Dublin, Sigmedia group. His research focuses on image denoising.
+Clément Bled is a PhD researcher with the Electronic Engineering department at
+Trinity College Dublin, Sigmedia group. His research focuses on image denoising. 

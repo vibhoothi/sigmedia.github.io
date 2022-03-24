@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: 'Angeliki Katsenou'
-image: 'profile2.png'
+image: 'angkats.jpg'
 role: Assistant Professor
 permalink: 'team/angkats'
 social:

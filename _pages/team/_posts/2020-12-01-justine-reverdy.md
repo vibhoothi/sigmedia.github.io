@@ -2,13 +2,14 @@
 layout: member 
 category: Postdoc
 title: Justine Reverdy
-image: Justine_Reverdy.png
+image: reverdyj.png
 role: Research Fellow
 permalink: 'team/justine-reverdy'
 social:
     twitter:
-    linkedin:
-    google-scholar:
+    linkedin: https://www.linkedin.com/in/justine-reverdy-199b2284/
+    google-scholar: https://scholar.google.com/citations?user=EV7eZ3kAAAAJ&hl=fr
+    research-gate: https://www.researchgate.net/profile/Justine-Reverdy
     github:
     website:
     email: reverdyj@tcd.ie
