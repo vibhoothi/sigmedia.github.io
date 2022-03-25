@@ -44,6 +44,7 @@ permalink: /team/
 </div>
 </ul>
 
+<!-- Research Assistants -->
 <h4 class="mb-4"><a id="researcher"></a>Research Assistants</h4>
 
 {% assign members = site.posts | where: 'category', 'Research-Assistant' | sort: 'date' %}
@@ -82,9 +83,10 @@ permalink: /team/
 </ul>
 
 
+<!-- Others -->
 <h3 class="mb-4"><a id="researcher"></a>Part-time Researchers</h4>
 
-{% assign members = site.posts | where: 'categojry', 'others' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'others' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
