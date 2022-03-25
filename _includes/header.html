@@ -1,13 +1,17 @@
 <header class="site-header" role="banner">
 
 
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"> <img src="/assets/images/sigmedia_logo_white_bg.png" width="400px"/>
+	<!-- <a class="navbar-brand "  href="/">{{ site.author }}</a> -->
+
+	<a class="navbar-brand site-title" rel="author" href="{{ "/" | relative_url }}"> <img src="/assets/images/sigmedia_logo_white_bg.png" width="400px"/> </a>
 	
 	<nav class="navbar navbar-expand-sm navbar-light px-0">
 
-		<!-- Navbar brand -->
-		<!-- <a class="navbar-brand" href="/">{{ site.author }}</a> -->
 
+		<!-- Navbar brand -->
+		<!-- <a class="navbar-brand "  href="/">{{ site.author }}</a> -->
+
+		
 		<!-- Navbar toggler button -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
 			aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,15 +20,13 @@
 
 		<!-- Navbar links -->
 		<div class="collapse navbar-collapse" id="navbarToggler">
-			<ul class="navbar-nav  ml-auto justify-content-end">
+			<ul class="navbar-nav  ml-auto">
 				<li>
 					<a class="nav-link" href="/">Home</a>
-				</li>
-
+				</li>				
 				<li>
 					<a class="nav-link" href="/team">Team</a>
 				</li>
-
 				<li>
 					<a class="nav-link" href="/publications">Publications</a>
 				</li>
@@ -33,6 +35,7 @@
 				</li>
 			</ul>
 		</div>
+
 
 	</nav>
 
