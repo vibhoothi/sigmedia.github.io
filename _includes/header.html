@@ -1,9 +1,12 @@
 <header class="site-header" role="banner">
 
+
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"> <img src="/assets/images/sigmedia_logo_white_bg.png" width="400px"/>
+	
 	<nav class="navbar navbar-expand-sm navbar-light px-0">
 
 		<!-- Navbar brand -->
-		<a class="navbar-brand" href="/">{{ site.author }}</a>
+		<!-- <a class="navbar-brand" href="/">{{ site.author }}</a> -->
 
 		<!-- Navbar toggler button -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
@@ -13,7 +16,11 @@
 
 		<!-- Navbar links -->
 		<div class="collapse navbar-collapse" id="navbarToggler">
-			<ul class="navbar-nav mr-auto">
+			<ul class="navbar-nav  ml-auto justify-content-end">
+				<li>
+					<a class="nav-link" href="/">Home</a>
+				</li>
+
 				<li>
 					<a class="nav-link" href="/team">Team</a>
 				</li>

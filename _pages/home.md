@@ -9,7 +9,7 @@ research group in the [Department of Electronic and Electrical
 Engineering](https://tcd.ie/eleceng) at [Trinity College
 Dublin](https://tcd.ie/).
 
-## Research
+# Research
 
 We explore problems that involve visual or audio digital media. Evolving from expertise in digital signal processing, we create solutions
 based on a healthy smoothy of statistics, probabilistic inference and applied mathematics. The team operates in well recognised domains: 
@@ -27,7 +27,7 @@ Spider Man, Harry Potter. This work was recognised by the
 [Academy of Motion Picture Arts and Sciences in 2007](https://www.oscars.org/sci-tech/ceremonies/2007) with a Scientific and Engineering Oscar award.
 
 
-## Collaboration
+# Collaboration
 
 Sigmedia researchers have been involved with many EU projects over the years
 (i3dpost, MOUMIR, PRESTOSPACE) involving archives and broadcasters around Europe. We are currently involved in EU COST Actions
