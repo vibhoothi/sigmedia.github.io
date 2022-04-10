@@ -2,6 +2,7 @@
 layout: member
 category: Postdoc
 title: Sébastien Le Maguer
+date: 2018-10-01
 image: lemagues.jpg
 role: Post-Doctoral Research Fellow
 permalink: 'team/lemagues'

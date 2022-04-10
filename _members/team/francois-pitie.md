@@ -2,6 +2,7 @@
 layout: member
 category: staff
 title: 'François Pitié'
+date: 2002-04-01
 image: 'pitief.jpg'
 role: Ussher Assistant Professor
 permalink: 'team/pitief'

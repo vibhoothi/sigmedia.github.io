@@ -2,6 +2,7 @@
 layout: member
 category: PhD-Student
 title:  Clément Bled
+date: 2020-08-01
 image: bledc.jpg
 role: PhD Student
 permalink: 'team/bledc'

@@ -2,6 +2,7 @@
 layout: member
 category: alumni
 title:  Joao Cabral
+date: 2020-12-31
 image: cabralj.jpg
 role: Reserach Fellow
 permalink: 'team/cabralj'

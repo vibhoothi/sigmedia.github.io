@@ -27,7 +27,13 @@
     {% if member.social.research-gate %}
     <li class="list-inline-item"><a target="blank" href="{{member.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
     {% endif %}
+    <!-- Wikipedia -->
+    {% if member.social.wikipedia %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.wikipedia}}"><i class="fab fa-wikipedia-w"></i></a></li>
+    {% endif %}
+    <!-- Email -->
     {% if member.social.email %}
     <li class="list-inline-item"><a target="blank" href="mailto:{{member.social.email}}"><i class="fas fa-envelope"></i></a></li>
     {% endif %}
+    
 </ul>

@@ -2,6 +2,7 @@
 layout: member 
 category: Postdoc
 title: Justine Reverdy
+date: 2020-12-01
 image: reverdyj.png
 role: Research Fellow
 permalink: 'team/justine-reverdy'

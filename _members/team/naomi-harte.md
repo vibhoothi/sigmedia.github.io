@@ -3,6 +3,7 @@ layout: member
 category: staff
 title: 'Naomi Harte'
 image: 'nharte.jpg'
+date: 2005-08-01
 role: Assosiate Professor
 permalink: 'team/nharte'
 social:

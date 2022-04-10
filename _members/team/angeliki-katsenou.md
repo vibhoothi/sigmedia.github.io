@@ -3,6 +3,7 @@ layout: member
 category: staff
 title: 'Angeliki Katsenou'
 image: 'angkats.jpg'
+date: 2022-03-01
 role: Assistant Professor
 permalink: 'team/angkats'
 social:

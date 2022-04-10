@@ -2,6 +2,7 @@
 layout: member
 category: Research-Assistant
 title: Ciaran Donegan
+date: 2021-07-01
 image: cidonega.jpg
 role: Research Assistant
 permalink: 'team/cidonega'

@@ -2,6 +2,7 @@
 layout: member
 category: Research-Assistant
 title: Sophia Rosney
+date: 2020-10-01
 image: rosneys.jpg
 role: Research Assistant
 permalink: 'team/rosneys'

@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Staff -->
 <h2 class="mb-3"><a id="staff"></a>Staff</h2>
 
-{% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'staff' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -23,12 +23,13 @@ permalink: /team/
 </div>
 </ul>
 
+
 <!-- Researchers -->
 <h2 class="mb-3"><a id="researcher"></a>Researchers</h2>
 
 <h4 class="mb-4"><a id="researcher"></a>Research Fellows</h4>
 
-{% assign members = site.posts | where: 'category', 'Postdoc' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'Postdoc' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -47,7 +48,7 @@ permalink: /team/
 <!-- Research Assistants -->
 <h4 class="mb-4"><a id="researcher"></a>Research Assistants</h4>
 
-{% assign members = site.posts | where: 'category', 'Research-Assistant' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'Research-Assistant' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -66,7 +67,7 @@ permalink: /team/
 <!-- Students -->
 <h2 class="mb-3"><a id="student"></a>PhD Students</h2>
 
-{% assign members = site.posts | where: 'category', 'PhD-Student' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'PhD-Student' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -84,9 +85,9 @@ permalink: /team/
 
 
 <!-- Others -->
-<h3 class="mb-4"><a id="researcher"></a>Part-time Researchers</h4>
+<h3 class="mb-4"><a id="researcher"></a>Adjunt Researchers</h4>
 
-{% assign members = site.posts | where: 'category', 'others' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'others' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -105,7 +106,7 @@ permalink: /team/
 <!-- Alumni -->
 <h2 class="mb-3"><a id="alumni"></a>Alumni</h2>
 
-{% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
+{% assign members = site.members | where: 'category', 'alumni' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}

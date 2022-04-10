@@ -2,6 +2,7 @@
 layout: member 
 category: alumni
 title: Marco Forte
+date: 2020-09-30
 image: fortem.jpg
 role: Alumni
 permalink: 'team/marco-forte'

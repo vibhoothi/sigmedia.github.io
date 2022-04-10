@@ -2,6 +2,7 @@
 layout: member
 category: alumni
 title:  Wissam Jassim
+date: 2021-08-01
 image: jassimw.jpg
 role: Reserach Fellow
 permalink: 'team/jassimw'

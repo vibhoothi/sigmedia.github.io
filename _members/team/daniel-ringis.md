@@ -2,6 +2,7 @@
 layout: member
 category: PhD-Student
 title: Daniel J Ringis
+date: 2018-03-01
 image: ringisd.jpg
 role: PhD Student
 permalink: 'team/ringisd'

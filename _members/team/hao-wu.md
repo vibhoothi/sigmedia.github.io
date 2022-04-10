@@ -2,6 +2,7 @@
 layout: member 
 category: PhD-Student
 title: Hao Wu
+date: 2019-08-01
 image: haow.jpg
 role: PhD Student
 permalink: 'team/hao-wu'

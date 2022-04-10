@@ -2,6 +2,7 @@
 layout: member
 category: PhD-Student
 title: Ayushi Pandey
+date: 2019-09-24
 image: pandeya.jpg
 role: PhD Student
 permalink: 'team/ayushi-pandey'
